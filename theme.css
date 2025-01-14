@@ -1,0 +1,60 @@
+:root {
+  --main-color: #1f6aab;
+}
+
+.menu-btn {
+  background-color: var(--main-color);
+}
+
+.spancol {
+  color: var(--main-color) !important;
+}
+
+.btn.btn-primary {
+  background: var(--main-color);
+  box-shadow: 0px 24px 40px rgba(31, 106, 171, 0.1);
+  border-radius: 15px;
+  color: #fff;
+}
+
+.btn.btn-primary.btn-border {
+  background: rgba(31, 106, 171, 0.35);
+  border: 1px solid var(--main-color);
+  box-shadow: none;
+  color: var(--main-color);
+}
+
+.btn.btn-primary.btn-border:hover {
+  background: var(--main-color);
+}
+
+.htbox {
+  background-color: var(--main-color) !important;
+}
+
+.diff-card--icon {
+  background-color: var(--main-color) !important;
+}
+
+.diff-card::after {
+  background-color: var(--main-color);
+}
+
+.s-color {
+  color: var(--main-color) !important;
+}
+
+.bg-color {
+  color: var(--main-color) !important;
+}
+
+.card-hobo .c-head .icon {
+  background-color: var(--main-color) !important;
+}
+
+.testi-card .tc-top .tc-stars {
+  display: flex;
+  align-items: center;
+  gap: 6.45px;
+  color: var(--main-color);
+}
