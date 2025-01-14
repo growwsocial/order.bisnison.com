@@ -1,60 +1,56 @@
-:root {
-  --main-color: #1f6aab !important;
-}
-
 .menu-btn {
-  background-color: var(--main-color);
+    background-color: #1f6aab;
 }
 
 .spancol {
-  color: var(--main-color) !important;
+  color: #1f6aab !important;
 }
 
 .btn.btn-primary {
-  background: var(--main-color);
-  box-shadow: 0px 24px 40px rgba(31, 106, 171, 0.1);
+  background: #1f6aab;
+  box-shadow: 0px 24px 40px rgba(31, 106, 171, 0.1); /* Adjusted shadow color */
   border-radius: 15px;
   color: #fff;
 }
 
 .btn.btn-primary.btn-border {
-  background: rgba(31, 106, 171, 0.35);
-  border: 1px solid var(--main-color);
+  background: rgba(31, 106, 171, 0.35); /* Semi-transparent version */
+  border: 1px solid #1f6aab;
   box-shadow: none;
-  color: var(--main-color);
+  color: #1f6aab;
 }
 
 .btn.btn-primary.btn-border:hover {
-  background: var(--main-color);
+  background: #1f6aab;
 }
 
 .htbox {
-  background-color: var(--main-color) !important;
+  background-color: #1f6aab !important;  
 }
 
 .diff-card--icon {
-  background-color: var(--main-color) !important;
+  background-color: #1f6aab !important;
 }
 
 .diff-card::after {
-  background-color: var(--main-color);
+  background-color: #1f6aab;
 }
 
 .s-color {
-  color: var(--main-color) !important;
+  color: #1f6aab !important;
 }
 
 .bg-color {
-  color: var(--main-color) !important;
+  color: #1f6aab !important; 
 }
 
 .card-hobo .c-head .icon {
-  background-color: var(--main-color) !important;
+  background-color: #1f6aab !important;
 }
 
 .testi-card .tc-top .tc-stars {
   display: flex;
   align-items: center;
   gap: 6.45px;
-  color: var(--main-color);
+  color: #1f6aab;
 }
