@@ -1,0 +1,56 @@
+.menu-btn {
+    background-color: #1f6aab;
+}
+
+.spancol {
+  color: #1f6aab !important;
+}
+
+.btn.btn-primary {
+  background: #1f6aab;
+  box-shadow: 0px 24px 40px rgba(31, 106, 171, 0.1); /* Adjusted shadow color */
+  border-radius: 15px;
+  color: #fff;
+}
+
+.btn.btn-primary.btn-border {
+  background: rgba(31, 106, 171, 0.35); /* Semi-transparent version */
+  border: 1px solid #1f6aab;
+  box-shadow: none;
+  color: #1f6aab;
+}
+
+.btn.btn-primary.btn-border:hover {
+  background: #1f6aab;
+}
+
+.htbox {
+  background-color: #1f6aab !important;  
+}
+
+.diff-card--icon {
+  background-color: #1f6aab !important;
+}
+
+.diff-card::after {
+  background-color: #1f6aab;
+}
+
+.s-color {
+  color: #1f6aab !important;
+}
+
+.bg-color {
+  color: #1f6aab !important; 
+}
+
+.card-hobo .c-head .icon {
+  background-color: #1f6aab !important;
+}
+
+.testi-card .tc-top .tc-stars {
+  display: flex;
+  align-items: center;
+  gap: 6.45px;
+  color: #1f6aab;
+}
