@@ -26,3 +26,64 @@
     width: 80px;
     height: 80px;
 }
+
+
+.tci-card .tci-image {
+  position: absolute;
+  bottom: 0px;
+  right: 74px;
+  display: none;
+  height: auto; /* Default height */
+  transition: all 0.3s ease-in-out; /* Smooth transition for changes */
+}
+
+@media (min-width: 768px) {
+  .tci-card .tci-image {
+    display: block;
+    right: 0;
+    width: 300px;
+    height: 200px; /* Set specific height */
+  }
+}
+
+@media (min-width: 992px) {
+  .tci-card .tci-image {
+    right: 74px;
+    width: inherit;
+    height: 400px; /* Adjust height for larger screens */
+  }
+}
+
+
+
+.hh-img-cover {
+  position: absolute;
+  bottom: 0;
+  right: 74px;
+  display: none;
+  height: auto; /* Default height */
+  transition: all 0.3s ease-in-out; /* Smooth transition for changes */
+}
+
+@media (min-width: 768px) {
+  .hh-img-cover {
+    display: block;
+    right: 0;
+    width: 300px;
+    height: 200px; 
+  }
+}
+
+@media (min-width: 992px) {
+  .hh-img-cover {
+    right: 50px;
+    width: inherit;
+    height: 550px;
+  }
+}
+
+.hh-img-cover img {
+  width: 120%;
+  height: 100%; 
+  object-fit: cover;
+}
