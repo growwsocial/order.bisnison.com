@@ -134,7 +134,7 @@ body.stop-body {
 }
 
 .btn.btn-primary.btn-border {
-  background: rgb(119 30 109 / 35%);
+  background: rgba(31, 106, 171, 0.35);
   border: 1px solid #1f6aab;
   box-shadow: none;
   color: #1f6aab;
