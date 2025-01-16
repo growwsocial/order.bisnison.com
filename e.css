@@ -19,7 +19,7 @@
 }
 
 .p-color {
-  color: #db2ec4 !important;
+  color: #1f6aab !important;
 }
 
 .s-color {
@@ -135,9 +135,9 @@ body.stop-body {
 
 .btn.btn-primary.btn-border {
   background: rgb(119 30 109 / 35%);
-  border: 1px solid #db2ec4;
+  border: 1px solid #1f6aab;
   box-shadow: none;
-  color: #db2ec4;
+  color: #1f6aab;
 }
 
 .btn.btn-primary.btn-border:hover {
@@ -213,7 +213,7 @@ body.stop-body {
 }
 
 a {
-  color: #db2ec4;
+  color: #1f6aab;
   text-decoration: none;
 }
 
@@ -392,7 +392,7 @@ a:hover {
   height: 48px;
   width: 48px;
   border-radius: 10px;
-  background-color: #db2ec4;
+  background-color: #1f6aab;
   color: #ffffff;
   outline: none;
   border: none;
@@ -595,7 +595,7 @@ a:hover {
 
 .hh-title span {
   position: relative;
-  color: #db2ec4;
+  color: #1f6aab;
 }
 
 .hh-title span::before {
@@ -813,7 +813,7 @@ a:hover {
 }
 
 .home-title h2 span {
-  color: #db2ec4;
+  color: #1f6aab;
   position: relative;
 }
 
@@ -866,7 +866,7 @@ a:hover {
   bottom: 0px;
   left: 0px;
   right: 0px;
-  background-color: #db2ec4;
+  background-color: #1f6aab;
   height: 0px;
   transition: 0.14s ease;
 }
@@ -1225,7 +1225,7 @@ a:hover {
 }
 
 .card-hobo.card-1 .c-head .title {
-  color: #db2ec4;
+  color: #1f6aab;
 }
 
 .card-hobo.card-1 .c-text {
@@ -1457,7 +1457,7 @@ a:hover {
   align-items: center;
   justify-content: center;
   position: absolute;
-  background-color: #db2ec4;
+  background-color: #1f6aab;
   color: #fff;
   font-size: 20px;
 }
@@ -1603,7 +1603,7 @@ a:hover {
 .footer-alert {
   display: inline-block;
   background: rgb(119 30 109 / 35%);
-  border: 1px solid #db2ec4;
+  border: 1px solid #1f6aab;
   box-sizing: border-box;
   border-radius: 15px;
   font-weight: 600;
@@ -1611,7 +1611,7 @@ a:hover {
   line-height: 16px;
   /* identical to box height, or 100% */
   letter-spacing: -0.03em;
-  color: #db2ec4;
+  color: #1f6aab;
   padding: 18px 20px;
 }
 
@@ -1853,7 +1853,7 @@ a:hover {
   content: "";
   position: absolute;
   width: 0px;
-  background-color: #db2ec4;
+  background-color: #1f6aab;
   box-shadow: 0px 4px 25px rgb(119 30 109 / 35%);
   height: 100%;
   top: 0px;
@@ -1865,7 +1865,7 @@ a:hover {
 }
 
 .sidebar-menu .s-menu-item.active .s-menu-link {
-  color: #db2ec4;
+  color: #1f6aab;
 }
 
 .sidebar-menu .s-menu-link {
@@ -1879,7 +1879,7 @@ a:hover {
 }
 
 .sidebar-menu .s-menu-link:hover {
-  color: #db2ec4;
+  color: #1f6aab;
 }
 
 .sidebar-menu .s-menu-link .icon {
@@ -2025,7 +2025,7 @@ a:hover {
 
 .d-dropdown .btn .icon.c-1 {
   background-color: d319ba;
-  color: #db2ec4;
+  color: #1f6aab;
 }
 
 .d-dropdown .btn .icon.c-2 {
@@ -2035,7 +2035,7 @@ a:hover {
 
 .d-dropdown .btn .icon.user-avatar {
   overflow: hidden;
-  border: 2px solid #db2ec4;
+  border: 2px solid #1f6aab;
 }
 
 .d-dropdown .btn .icon.user-avatar img {
@@ -2114,7 +2114,7 @@ a:hover {
 }
 
 .d-icon.i-primary {
-  color: #db2ec4;
+  color: #1f6aab;
   background: rgba(45, 250, 213, 0.2);
 }
 
@@ -2277,7 +2277,7 @@ a:hover {
 }
 
 .dh-icon.icon-primary {
-  color: #db2ec4;
+  color: #1f6aab;
   background-color: rgb(119 30 109 / 35%);
 }
 
@@ -2737,7 +2737,7 @@ a:hover {
 }
 
 .orlc.min {
-  color: #db2ec4;
+  color: #1f6aab;
   background-color: rgba(45, 250, 213, 0.2);
 }
 
@@ -2911,14 +2911,14 @@ a:hover {
 
 .orders-nav-link.active {
   background-color: rgba(45, 250, 213, 0.1);
-  border-color: #db2ec4 !important;
-  color: #db2ec4;
+  border-color: #1f6aab !important;
+  color: #1f6aab;
 }
 
 .orders-nav-link:hover {
   background-color: rgba(45, 250, 213, 0.1);
   border-color: rgba(45, 250, 213, 0.1);
-  color: #db2ec4;
+  color: #1f6aab;
 }
 
 @media (min-width: 992px) {
@@ -3034,8 +3034,8 @@ a:hover {
 
 .op-stats.primary {
   background-color: rgba(45, 250, 213, 0.15);
-  border-color: #db2ec4;
-  color: #db2ec4;
+  border-color: #1f6aab;
+  color: #1f6aab;
 }
 
 .op-stats.secondary {
@@ -3218,7 +3218,7 @@ a:hover {
 .sd-back::after {
   content: "";
   height: 2px;
-  background-color: #db2ec4;
+  background-color: #1f6aab;
   position: absolute;
   left: 0;
   right: 0;
@@ -3258,7 +3258,7 @@ a:hover {
 }
 
 .tc-tick-id {
-  background-color: #db2ec4;
+  background-color: #1f6aab;
   color: #fff;
   border-radius: 10px;
   font-size: 16px;
@@ -3460,7 +3460,7 @@ a:hover {
 }
 
 a {
-  color: #db2ec4;
+  color: #1f6aab;
   transition: 0.14s ease;
   text-decoration: none;
 }
@@ -3712,7 +3712,7 @@ a:hover {
 }
 
 .aft-box-row>.col:nth-child(2n) .aft-box::after {
-  background-color: #db2ec4;
+  background-color: #1f6aab;
 }
 
 .aft-box-row>.col:nth-child(3n) .aft-box::after {
@@ -3720,7 +3720,7 @@ a:hover {
 }
 
 .aft-box-row>.col:nth-child(4n) .aft-box::after {
-  background-color: #db2ec4;
+  background-color: #1f6aab;
 }
 
 .aft-box-row>.col:nth-child(5n) .aft-box::after {
@@ -3833,7 +3833,7 @@ a:hover {
   align-items: center;
   justify-content: center;
   border-radius: 50%;
-  border: 3px solid #db2ec4;
+  border: 3px solid #1f6aab;
 }
 
 .acc-user .acc-avatar img {
@@ -3877,7 +3877,7 @@ a:hover {
   padding: 16px 18px 16px 22px;
   background: rgb(119 30 109 / 35%);
   border-radius: 15px;
-  color: #db2ec4;
+  color: #1f6aab;
   align-items: center;
 }
 
@@ -3886,7 +3886,7 @@ a:hover {
   font-size: 14px;
   line-height: 17px;
   text-align: center;
-  color: #db2ec4;
+  color: #1f6aab;
 }
 
 .acc-api a {
@@ -3925,7 +3925,7 @@ a:hover {
 .blog-head .blog-avatar {
   width: 50px;
   height: 50px;
-  border: 2px solid #db2ec4;
+  border: 2px solid #1f6aab;
   border-radius: 50%;
   overflow: hidden;
 }
@@ -4002,7 +4002,7 @@ a:hover {
 }
 
 .card-blog .blog-read-more:hover {
-  color: #db2ec4;
+  color: #1f6aab;
 }
 
 .card-blog .blog-read-more i {
@@ -4119,9 +4119,9 @@ a:hover {
 .bi-head-box .bi-head-content .bi-cat-wrapper .bi-cat {
   display: inline-block;
   background: rgb(119 30 109 / 35%);
-  border: 1px solid #db2ec4;
+  border: 1px solid #1f6aab;
   box-sizing: border-box;
-  color: #db2ec4;
+  color: #1f6aab;
   border-radius: 50px;
   font-weight: 600;
   font-size: 16px;
@@ -4242,7 +4242,7 @@ a:hover {
 .bi-about-SmmBaz .bi-about-avatar {
   width: 72px;
   height: 72px;
-  border: 2px solid #db2ec4;
+  border: 2px solid #1f6aab;
   box-sizing: border-box;
   border-radius: 50%;
   overflow: hidden;
@@ -4414,7 +4414,7 @@ a:hover {
 
 .rp-icon {
   background: d319ba;
-  color: #db2ec4;
+  color: #1f6aab;
   font-size: 24px;
   border-radius: 16px;
   width: 56px;
@@ -4639,7 +4639,7 @@ a:hover {
 
 .pagination li.active .page-link {
   background-color: #171717;
-  color: #db2ec4;
+  color: #1f6aab;
 }
 
 .pagination li.active .page-link::before {
@@ -4650,7 +4650,7 @@ a:hover {
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
-  background-color: #db2ec4;
+  background-color: #1f6aab;
 }
 
 .pagination li.page-item-before .page-link {
@@ -4877,7 +4877,7 @@ a:hover {
 }
 
 .nwo-video-close:hover {
-  color: #db2ec4;
+  color: #1f6aab;
 }
 
 
@@ -4938,7 +4938,7 @@ a:hover {
 }
 
 .nwo-affiliates-close:hover {
-  color: #db2ec4;
+  color: #1f6aab;
 }
 
 .op-card--bottom-close {
@@ -5309,7 +5309,7 @@ a:hover {
 }
 
 .ds-cs {
-  color: #db2ec4;
+  color: #1f6aab;
 }
 
 .ds-cw {
@@ -5395,7 +5395,7 @@ display: -webkit-box;
     font-weight: 600;
 }
 .clo {
-      color: #db2ec4;
+      color: #1f6aab;
 }
 .badge-dangers {
   background: #FF5A5A;
